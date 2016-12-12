@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProjectDevelopmentAssignment 1.2.CSharp.Plugins", "GameProjectDevelopmentAssignment 1.2.CSharp.Plugins.csproj", "{639482A5-D97D-4EB1-0FE7-AA2F10977F60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProjectDevelopmentAssignment 1.2.CSharp", "GameProjectDevelopmentAssignment 1.2.CSharp.csproj", "{CF56679C-060B-EC42-DA2E-5E26ACA7EF12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProjectDevelopmentAssignment 1.2.CSharp.Editor", "GameProjectDevelopmentAssignment 1.2.CSharp.Editor.csproj", "{780A845D-EBE9-A3A6-FA29-EB521F30CA44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{639482A5-D97D-4EB1-0FE7-AA2F10977F60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{639482A5-D97D-4EB1-0FE7-AA2F10977F60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{639482A5-D97D-4EB1-0FE7-AA2F10977F60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{639482A5-D97D-4EB1-0FE7-AA2F10977F60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF56679C-060B-EC42-DA2E-5E26ACA7EF12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF56679C-060B-EC42-DA2E-5E26ACA7EF12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF56679C-060B-EC42-DA2E-5E26ACA7EF12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF56679C-060B-EC42-DA2E-5E26ACA7EF12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{780A845D-EBE9-A3A6-FA29-EB521F30CA44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{780A845D-EBE9-A3A6-FA29-EB521F30CA44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{780A845D-EBE9-A3A6-FA29-EB521F30CA44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{780A845D-EBE9-A3A6-FA29-EB521F30CA44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

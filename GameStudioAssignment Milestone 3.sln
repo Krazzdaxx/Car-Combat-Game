@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameStudioAssignment Milestone 3.Plugins", "GameStudioAssignment Milestone 3.Plugins.csproj", "{1B64B5DA-CA98-E1CD-CEFE-1CCBAF569989}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameStudioAssignment Milestone 3", "GameStudioAssignment Milestone 3.csproj", "{B2A2E9DD-3B73-0188-6DF8-EA7F3984513B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameStudioAssignment Milestone 3.Editor", "GameStudioAssignment Milestone 3.Editor.csproj", "{7F608FB4-6797-E4C5-4B75-4145B65B088D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B64B5DA-CA98-E1CD-CEFE-1CCBAF569989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B64B5DA-CA98-E1CD-CEFE-1CCBAF569989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B64B5DA-CA98-E1CD-CEFE-1CCBAF569989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B64B5DA-CA98-E1CD-CEFE-1CCBAF569989}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2A2E9DD-3B73-0188-6DF8-EA7F3984513B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A2E9DD-3B73-0188-6DF8-EA7F3984513B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A2E9DD-3B73-0188-6DF8-EA7F3984513B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A2E9DD-3B73-0188-6DF8-EA7F3984513B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F608FB4-6797-E4C5-4B75-4145B65B088D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F608FB4-6797-E4C5-4B75-4145B65B088D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F608FB4-6797-E4C5-4B75-4145B65B088D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F608FB4-6797-E4C5-4B75-4145B65B088D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
